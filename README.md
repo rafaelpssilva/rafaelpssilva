@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Oiii eu sou a Rafaella Ballerini, criadora de conteúdo de programação e tecnologia!
+## Rafael Pereira atualmente se aprofundando em Front-End
 <div align="center">
   <a href="https://github.com/rafaelpssilva">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelpssilva&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
